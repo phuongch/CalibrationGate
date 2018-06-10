@@ -1,0 +1,10 @@
+#Build result
+bin
+obj
+
+#Bower libraries
+wwwroot/lib
+
+#Minified Scripts
+*.min.js
+*.min.css
